@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define DEBUG
+
 int main()
 {
   int i=0;
